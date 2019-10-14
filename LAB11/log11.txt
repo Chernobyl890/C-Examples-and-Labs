@@ -1,0 +1,74 @@
+Shane Irons 
+ 
+Wed 10/17/2018 at 13:50:52.63 
+ 
+
+Host Name:                 DESKTOP-0EDG9ID
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          N/A
+Registered Organization:   N/A
+Product ID:                00330-62820-00000-AAOEM
+Original Install Date:     8/21/2018, 7:46:34 AM
+System Boot Time:          10/4/2018, 2:32:35 PM
+System Manufacturer:       Microsoft Corporation
+System Model:              Surface Pro 4
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~1497 Mhz
+BIOS Version:              Microsoft Corporation 108.2262.768, 6/22/2018
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     8,117 MB
+Available Physical Memory: 5,633 MB
+Virtual Memory: Max Size:  9,397 MB
+Virtual Memory: Available: 6,600 MB
+Virtual Memory: In Use:    2,797 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-0EDG9ID
+Hotfix(s):                 8 Hotfix(s) Installed.
+                           [01]: KB4230204
+                           [02]: KB4343669
+                           [03]: KB4343902
+                           [04]: KB4456655
+                           [05]: KB4457146
+                           [06]: KB4462930
+                           [07]: KB4464218
+                           [08]: KB4462919
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Marvell AVASTAR Wireless-AC Network Controller
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.0.2.1
+                                 IP address(es)
+                                 [01]: 172.20.76.200
+                                 [02]: fe80::fcc6:f3d8:2156:917b
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [03]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.33.254
+                                 IP address(es)
+                                 [01]: 192.168.33.1
+                                 [02]: fe80::cc73:b38c:73d0:660a
+                           [04]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.197.254
+                                 IP address(es)
+                                 [01]: 192.168.197.1
+                                 [02]: fe80::d54:6957:8ecb:37fc
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
